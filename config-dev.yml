@@ -1,1 +1,2 @@
-port:1111
+config:
+  info: "这是开发环境的配置文件, version=1.0"
